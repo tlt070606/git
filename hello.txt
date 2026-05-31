@@ -1,0 +1,4 @@
+why
+hello world:wq
+:w
+:wq
